@@ -1,6 +1,6 @@
 # Bloque 4. Recepción con copias
 
-Criterios **a)**, **c)** y **d)**. Horas orientativas: 8.
+Criterios **a)**, **c)** y **d)**. Horas orientativas: 5.
 
 Consultad y modificad una reserva. Un campo nuevo, por ejemplo una mascota o una hora de llegada, tiene que convivir con las reservas ya guardadas. Detened un miembro de las copias y volved a leer la reserva modificada.
 

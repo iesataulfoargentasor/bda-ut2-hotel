@@ -1,6 +1,6 @@
 # Bloque 3. Fallo en el histórico
 
-Criterios **c)** y **e)**. Horas orientativas: 4.
+Criterios **c)** y **e)**. Horas orientativas: 2.
 
 Detened un miembro que el diseño declara soportar: un DataNode, un nodo del almacén de objetos o el proceso que guarda una copia del fichero. Anotad el estado previo, el efecto sobre la lectura y la recuperación, con su tiempo.
 

@@ -1,6 +1,6 @@
 # Bloque 1. Dos almacenes
 
-Criterios **a)** y **d)**. Horas orientativas: 6.
+Criterios **a)** y **d)**. Horas orientativas: 3.
 
 Medid el bruto y el espacio con las copias previstas. Asignad el histórico al almacén que se recorre entero y la reserva viva al almacén que recepción consulta y modifica. Contrastad la carga con `datos/totales_esperados.json`.
 

@@ -1,6 +1,6 @@
 # Bloque 6. Una pregunta posterior
 
-Criterios **d)** y **c)**. Horas orientativas: 4.
+Criterios **d)** y **c)**. Horas orientativas: 2.
 
 Con el histórico ya cargado, responded una pregunta que no estaba en el primer panel. Puede ser el importe cobrado de un canal en un hotel y un mes, o las lecturas de sensores por encima de un umbral en una sede. No reescribáis el histórico para contestarla.
 

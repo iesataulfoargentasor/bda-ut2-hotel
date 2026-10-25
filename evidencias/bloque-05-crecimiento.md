@@ -1,6 +1,6 @@
 # Bloque 5. Crecer por módulos
 
-Criterio **e)**. Horas orientativas: 5.
+Criterio **e)**. Horas orientativas: 3.
 
 Añadid un módulo real del diseño: otro DataNode, otro trabajador, otra partición o shard, u otro nodo del almacén de objetos. Repetid una pregunta ya contrastada.
 

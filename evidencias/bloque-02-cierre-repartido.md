@@ -1,6 +1,6 @@
 # Bloque 2. Cierre repartido
 
-Criterio **b)**. Horas orientativas: 8.
+Criterio **b)**. Horas orientativas: 5.
 
 Calculad noches e importe por hotel, cancelaciones por canal y el recuento de sensores del cierre. Primero en local, sobre el mismo corte. Después en el motor repartido. Repetid una pregunta en un segundo motor.
 
