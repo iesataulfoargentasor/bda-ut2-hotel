@@ -1,0 +1,22 @@
+# Bruto generado y salidas locales. totales_esperados.json sí se sube.
+datos/bruto/
+datos/generado/
+salidas/**
+!salidas/README.md
+
+*.parquet
+*.orc
+*.avro
+*.duckdb
+*.csv
+*.jsonl
+*.tsv
+
+.env
+.venv/
+__pycache__/
+*.pyc
+*.log
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
