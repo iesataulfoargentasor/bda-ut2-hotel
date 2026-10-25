@@ -28,7 +28,8 @@ La dirección tiene que quedar `github.com/VUESTRO_USUARIO/bda-ut2-hotel`. Puede
 | [diseno/combinacion.md](diseno/combinacion.md) | Qué pieza guarda, calcula, atiende recepción, copia y crece |
 | [evidencias/](evidencias/) | Un archivo por bloque, con predicción, operación, salida e interpretación |
 | [scripts/](scripts/) | Trabajos, consultas o programas que hayáis ejecutado |
-| [datos/totales_esperados.json](datos/README.md) | El fichero que publica el profesor en Moodle |
+| [datos/generar_cierre.py](datos/generar_cierre.py) | Genera el bruto en `datos/bruto/` con la semilla 2026 |
+| [datos/totales_esperados.json](datos/totales_esperados.json) | Totales del perfil de aula. No los cambiéis para forzar una coincidencia |
 | [avances/](avances/PLANTILLA.md) | Una nota al cerrar cada sesión |
 
 Marcad el avance:
